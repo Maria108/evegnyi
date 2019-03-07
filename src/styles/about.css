@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+
+.first-section-about {
+  margin-top: 20px;
+}
+
+@media (max-width: 700px) {
+  .first-section-about {
+    margin-top: 0;
+    min-height: auto;
+  }
+}
+
+.first-section-about-header {
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
+
+@media (max-width: 700px) {
+  .first-section-about-header {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+  }
+}
+
+.first-section-about-colonic {
+  font-size: 17px;
+  text-align: justify;
+  text-indent: 35px;
+  padding: 10px 15px 0px 15px;
+}
+
+@media (max-width: 800px) {
+  .first-section-about-colonic {
+    font-size: 13px;
+    text-align: left;
+    min-height: auto;
+    padding: 2px 2px 2px 2px;
+  }
+}
+
+.first-section-about-book-apt {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 700px) {
+  .first-section-about-book-apt {
+    text-align: center;
+    margin-top: 10px;
+  }
+}
+
+.first-section-about-picture {
+  background-image: url('../images/ananas.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 70vh;
+}
+
+@media (max-width: 760px) {
+  .first-section-about-picture {
+    background-image: url('../images/ananas.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 30vh;
+  }
+}
+
+.second-section-about {
+  margin-top: 30px;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
+
+@media (max-width: 700px) {
+  .second-section-about {
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+  }
+}
+
+.second-section-about-icon {
+  text-align: center;
+  font-size: 50px;
+  color: #2f6295;
+  margin-bottom: 15px;
+}
+
+.second-section-about-icon-header {
+  text-align: center;
+  color: black;
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.second-section-about-icon-content {
+  text-align: justify;
+  font-size: 17px;
+  padding: 15px;
+}
+
+.third-section-about {
+  margin-bottom: 20px;
+}
+
+.third-section-about-picture {
+  background-image: url('../images/lena-broccoli.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+@media (max-width: 700px) {
+  .third-section-about-picture {
+    background-image: url('../images/lena-broccoli.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 40vh;
+  }
+}
+
+.third-section-about-header {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 30px;
+  color: #000;
+}
+
+.third-section-about-recommendations {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: black;
+  font-size: 17px;
+  text-align: justify;
+}
+
+.third-section-about-avoid-include {
+  margin-left: 30px;
+}
+
+.third-section-about-colon-dos {
+  padding: 5px;
+  text-align: justify;
+  color: #000;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.icon-dont {
+  font-size: 26px;
+  color: red;
+}
+
+.icon-do {
+  font-size: 26px;
+  color: #45c445;
+}
+
+.third-section-about-points {
+  text-align: justify;
+  color: #000;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.third-section-about-icon {
+  font-size: 6px;
+  vertical-align: middle;
+}
+
+.third-section-about-recommendations-bottom {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: justify;
+  line-height: 25px;
+}

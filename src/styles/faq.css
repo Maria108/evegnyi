@@ -1,0 +1,52 @@
+/* @import url('https://fonts.googleapis.com/css?family=Poiret+One'); */
+
+.div-about-faq {
+  margin-top: 20px;
+  min-height: 80vh;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 769px) {
+  .div-about-faq {
+    margin-top: 20px;
+    min-height: 50vh;
+    margin-bottom: 20px;
+  }
+}
+
+.faq {
+  text-align: center;
+  background-image: url('../images/zheka.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+@media (max-width: 769px) {
+  .faq {
+    margin-top: 10px;
+    text-align: center;
+    background-image: url('../images/zheka.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: auto;
+    min-height: 50vh;
+  }
+}
+
+.coming {
+  margin-top: 20px;
+  font-size: 20px;
+  color: black;
+}
+
+.cross-text {
+  font-family: 'Poiret One';
+  text-decoration: line-through;
+  color: gray;
+}
+
+.faq-p {
+  font-family: 'Poiret One';
+  font-size: 20px;
+}
