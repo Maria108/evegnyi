@@ -10,12 +10,12 @@ import "../styles/faq.css"
 
 const Acting = () => (
   <Layout>
-    <SEO title="faq" />
+    <SEO title="acting" />
     <Grid>
       <Row className="div-about-faq">
         <Col xs={2} md={5}>
           <p className="faq-p">
-            <b>Gravity Colon Hydrotherapy Session (45-60 mins)</b>
+            <b> Session (45-60 mins)</b>
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">

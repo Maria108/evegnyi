@@ -15,36 +15,28 @@ const Cooking = () => (
       <Row className="div-about-faq">
         <Col xs={2} md={5}>
           <p className="faq-p">
-            <b>Gravity Colon Hydrotherapy Session (45-60 mins)</b>
+            <b>Самый лучший повар - Жека пекарь</b>
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaCircle />
             </span>{" "}
-            One Session $130{" "}
+            Пекарь на дому $100/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaCircle />
             </span>{" "}
-            Package of Three Sessions $350{" "}
+            Пекарь для общественного мероприятия $150/час{" "}
             <span className="cross-text">$390</span>
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaCircle />
             </span>{" "}
-            Package of Six Sessions $650{" "}
+            Пекарь для Кришны $priceless/час{" "}
             <span className="cross-text">$780</span>
           </p>
-          <p className="faq-p">
-            <b>Super Fresh Start (New Clients Only)</b>
-          </p>
-          <p className="faq-p">
-            Come for your first colonic for regular price - get second one for
-            $75 if you come within two weeks
-          </p>
-          <p className="coming">coming soon...</p>
         </Col>
         <Col xs={10} md={7} className="faq" />
       </Row>

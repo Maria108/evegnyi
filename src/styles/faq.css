@@ -16,13 +16,21 @@
 
 .faq {
   text-align: center;
-  background-image: url('../images/IMG_0749.JPG');
+  background-image: url('../images/zheka-act.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   height: auto;
 }
 
-@media (max-width: 769px) {
+.pekar {
+  text-align: center;
+  background-image: url('../images/zheka-foto.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+/* @media (max-width: 769px) {
   .faq {
     margin-top: 10px;
     text-align: center;
@@ -32,7 +40,7 @@
     height: auto;
     min-height: 50vh;
   }
-}
+} */
 
 .coming {
   margin-top: 20px;
