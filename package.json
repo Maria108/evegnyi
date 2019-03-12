@@ -25,7 +25,8 @@
     "reactstrap": "^7.1.0"
   },
   "devDependencies": {
-    "prettier": "^1.16.4"
+    "prettier": "^1.16.4",
+    "react-alice-carousel": "^1.13.1"
   },
   "keywords": [
     "gatsby"
