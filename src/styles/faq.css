@@ -283,3 +283,9 @@
 .btn-q:focus {
   background-color: turquoise !important;
 }
+
+@media (max-width: 769px) {
+  .btn-q:focus {
+    background-color: turquoise !important;
+  }
+}
