@@ -255,6 +255,16 @@
   background-color: white !important;
 }
 
+@media (max-width: 769px) {
+  .btn-q {
+    text-align: center;
+    margin: 10px;
+    width: 100px;
+    height: 20px;
+    background-color: white !important;
+  }
+}
+
 .btn-q:focus {
   background-color: turquoise !important;
 }
