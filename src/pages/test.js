@@ -17,9 +17,7 @@ const Test = () => (
     <Grid>
       <Row className="div-about-faq">
         <Col xs={12} md={12}>
-          <div>
-            <p>Чтобы получить поздравление пройдите тест</p>
-          </div>
+          <p className="test">Чтобы получить поздравление пройдите тест</p>
         </Col>
         <Gallery />
       </Row>
