@@ -6,20 +6,32 @@
   margin-bottom: 20px;
 }
 
-@media (max-width: 769px) {
+/* @media (max-width: 769px) {
   .div-about-faq {
     margin-top: 20px;
     min-height: 50vh;
     margin-bottom: 20px;
   }
-}
+} */
 
 .faq {
   text-align: center;
   background-image: url('../images/zheka-act.jpg');
   background-size: contain;
   background-repeat: no-repeat;
-  height: auto;
+  min-height: 50vh;
+}
+
+@media (max-width: 769px) {
+  .faq {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-act.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
 }
 
 .pekar {
@@ -113,6 +125,7 @@
   font-size: 17px;
   font-weight: bold;
   text-align: right;
+  margin-bottom: 0;
 }
 
 .coming {

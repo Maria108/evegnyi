@@ -16,7 +16,7 @@ const Cooking = () => (
     <SEO title="faq" />
     <Grid>
       <Row className="div-about-faq">
-        <Col xs={2} md={6}>
+        <Col xs={12} md={6}>
           <p className="faq-p">
             <b>Самый лучший повар - Жека пекарь</b>
           </p>
@@ -55,7 +55,7 @@ const Cooking = () => (
             <p className="review-author">-Оксана (Сулакшана)-</p>
           </Col>
         </Col>
-        <Col xs={10} md={6} className="pekar" />
+        <Col xs={12} md={6} className="pekar" />
       </Row>
     </Grid>
   </Layout>
