@@ -42,6 +42,18 @@
   height: auto;
 }
 
+@media (max-width: 769px) {
+  .pekar {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-masha.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
+}
+
 .acting {
   text-align: center;
   background-image: url('../images/zheka-act.jpg');
@@ -70,12 +82,36 @@
   height: auto;
 }
 
+@media (max-width: 769px) {
+  .poet {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-talk.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
+}
+
 .dance {
   text-align: center;
   background-image: url('../images/zheka-dance.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   height: auto;
+}
+
+@media (max-width: 769px) {
+  .dance {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-dance.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
 }
 
 .photo {
@@ -86,12 +122,36 @@
   height: auto;
 }
 
+@media (max-width: 769px) {
+  .photo {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-foto.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
+}
+
 .fam {
   text-align: center;
   background-image: url('../images/zheka-muzh.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   height: auto;
+}
+
+@media (max-width: 769px) {
+  .fam {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-muzh.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
 }
 
 .voin {
@@ -102,12 +162,36 @@
   height: auto;
 }
 
+@media (max-width: 769px) {
+  .voin {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-voin.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
+}
+
 .joke {
   text-align: center;
   background-image: url('../images/zheka-joke.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   height: auto;
+}
+
+@media (max-width: 769px) {
+  .joke {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-joke.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
 }
 
 /* @media (max-width: 769px) {
