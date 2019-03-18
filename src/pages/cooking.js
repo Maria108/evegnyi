@@ -4,7 +4,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { Grid, Row, Col } from "react-bootstrap"
 
-// import Gallery from "../components/reactcar"
 import { IoMdStar } from "react-icons/io"
 
 import { FaDrumstickBite } from "react-icons/fa"
@@ -16,7 +15,7 @@ const Cooking = () => (
     <SEO title="faq" />
     <Grid>
       <Row className="div-about-faq">
-        <Col xs={12} md={6}>
+        <Col xs={2} md={6}>
           <p className="faq-p">
             <b>Самый лучший повар - Жека пекарь</b>
           </p>
@@ -55,7 +54,7 @@ const Cooking = () => (
             <p className="review-author">-Оксана (Сулакшана)-</p>
           </Col>
         </Col>
-        <Col xs={12} md={6} className="pekar" />
+        <Col xs={10} md={6} className="pekar" />
       </Row>
     </Grid>
   </Layout>
