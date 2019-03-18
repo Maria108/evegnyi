@@ -50,6 +50,18 @@
   height: auto;
 }
 
+@media (max-width: 769px) {
+  .acting {
+    /* margin-top: 10px; */
+    text-align: center;
+    background-image: url('../images/zheka-act.jpg');
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    /* height: auto; */
+    min-height: 50vh;
+  }
+}
+
 .poet {
   text-align: center;
   background-image: url('../images/zheka-talk.jpg');
