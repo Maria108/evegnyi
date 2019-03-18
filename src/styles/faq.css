@@ -24,7 +24,63 @@
 
 .pekar {
   text-align: center;
+  background-image: url('../images/zheka-masha.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.acting {
+  text-align: center;
+  background-image: url('../images/zheka-act.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.poet {
+  text-align: center;
+  background-image: url('../images/zheka-talk.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.dance {
+  text-align: center;
+  background-image: url('../images/zheka-dance.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.photo {
+  text-align: center;
   background-image: url('../images/zheka-foto.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.fam {
+  text-align: center;
+  background-image: url('../images/zheka-muzh.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.voin {
+  text-align: center;
+  background-image: url('../images/zheka-voin.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.joke {
+  text-align: center;
+  background-image: url('../images/zheka-joke.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   height: auto;
@@ -43,7 +99,20 @@
 } */
 
 .rating {
-  color: gold
+  color: gold;
+  margin-bottom: 0 !important;
+}
+
+.review {
+  font-size: 17px !important;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.review-author {
+  font-size: 17px;
+  font-weight: bold;
+  text-align: right;
 }
 
 .coming {

@@ -13,13 +13,13 @@ const Footer = () => (
           <div>
             <p className="footer-contact">Contact</p>
             <div className="footer-contact">
-              <FaMapMarkerAlt /> 313 7th St, Brooklyn, NY, 11215
+              <FaMapMarkerAlt /> 26 2nd Ave, New York, NY, 10003
             </div>
             <div className="footer-contact">
-              <FaPhone /> <a href="tel:+16463859985">646-385-9985</a>
+              <FaPhone /> 917-108-1008
             </div>
             <div className="footer-contact">
-              <FaRegClock /> Wed-Fri 8:00AM - 7:00PM
+              <FaRegClock /> Mon-Fri 8:00AM - 7:00PM
             </div>
           </div>
         </Col>

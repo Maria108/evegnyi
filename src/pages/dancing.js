@@ -4,7 +4,9 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { Grid, Row, Col } from "react-bootstrap"
 
-import { FaCircle } from "react-icons/fa"
+import { IoMdStar } from "react-icons/io"
+
+import { FaBomb } from "react-icons/fa"
 
 import "../styles/faq.css"
 
@@ -13,40 +15,42 @@ const Dancing = () => (
     <SEO title="faq" />
     <Grid>
       <Row className="div-about-faq">
-        <Col xs={2} md={5}>
+        <Col xs={2} md={6}>
           <p className="faq-p">
-            <b>Gravity Colon Hydrotherapy Session (45-60 mins)</b>
+            <b>Самый лучший танцор - Жека дискотека</b>
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
-              <FaCircle />
+              <FaBomb />
             </span>{" "}
-            One Session $130{" "}
+            - $100/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
-              <FaCircle />
+              <FaBomb />
             </span>{" "}
-            Package of Three Sessions $350{" "}
-            <span className="cross-text">$390</span>
+            - $100/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
-              <FaCircle />
+              <FaBomb />
             </span>{" "}
-            Package of Six Sessions $650{" "}
-            <span className="cross-text">$780</span>
+            - $100/час{" "}
           </p>
-          <p className="faq-p">
-            <b>Super Fresh Start (New Clients Only)</b>
-          </p>
-          <p className="faq-p">
-            Come for your first colonic for regular price - get second one for
-            $75 if you come within two weeks
-          </p>
-          <p className="coming">coming soon...</p>
+          <Col xs={12} md={12}>
+            <p className="rating">
+              {" "}
+              <IoMdStar />
+              <IoMdStar />
+              <IoMdStar />
+              <IoMdStar />
+              <IoMdStar />
+            </p>
+            <p className="review">Отзыв</p>
+            <p className="review-author">-кто-то-</p>
+          </Col>
         </Col>
-        <Col xs={10} md={7} className="faq" />
+        <Col xs={10} md={6} className="dance" />
       </Row>
     </Grid>
   </Layout>

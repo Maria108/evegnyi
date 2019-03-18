@@ -192,17 +192,3 @@
   padding-top: 15px;
   text-align: center;
 }
-
-.rating {
-  color: gold;
-}
-
-.review {
-  font-size: 14px;
-  text-align: justify;
-}
-
-.review-author {
-  font-size: 15px;
-  text-align: right;
-}

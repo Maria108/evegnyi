@@ -52,7 +52,7 @@ const Martial = () => (
             <p className="review-author">-Шамиль-</p>
           </Col>
         </Col>
-        <Col xs={10} md={6} className="pekar" />
+        <Col xs={10} md={6} className="voin" />
       </Row>
     </Grid>
   </Layout>
