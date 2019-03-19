@@ -13,7 +13,7 @@ const Gallery = () => {
         <Col xs={12} md={12}>
           <div>
             <p className="test-q">
-              Что Кришна сказал Арджуне на поле битвы Курукшетра
+              Что Кришна сказал Арджуне на поле битвы Курукшетра?
             </p>
           </div>
           <div>
@@ -31,7 +31,7 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Сколько имен у Кришны</p>
+            <p className="test-q">Сколько имен у Кришны?</p>
           </div>
           <div>
             <button className="btn-q">2</button>
@@ -47,7 +47,7 @@ const Gallery = () => {
         <Col xs={12} md={12}>
           <div>
             <p className="test-q">
-              Откуда появился Нрисимха Дев чтобы защитить Прахлад Махараджа
+              Откуда появился Нрисимха Дев чтобы защитить Прахлад Махараджа?
             </p>
           </div>
           <div>
@@ -63,7 +63,7 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Что Кришна и его друзья воровали у Гопи</p>
+            <p className="test-q">Что Кришна и его друзья воровали у Гопи?</p>
           </div>
           <div>
             <button className="btn-q">сари</button>
@@ -95,7 +95,7 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Голова какого животного у Ганеши</p>
+            <p className="test-q">Голова какого животного у Ганеши?</p>
           </div>
           <div>
             <button className="btn-q">Жирафа</button>
@@ -110,7 +110,7 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">На чем Кришна держал холм Говардхан</p>
+            <p className="test-q">На чем Кришна держал холм Говардхан?</p>
           </div>
           <div>
             <button className="btn-q">На коленях</button>
@@ -125,7 +125,7 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Выбери того кто НЕ являлся братом Арджуны</p>
+            <p className="test-q">Выбери того кто НЕ является братом Арджуны</p>
           </div>
           <div>
             <button className="btn-q">Бхима</button>
@@ -140,30 +140,33 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Кришна</p>
+            <p className="test-q">
+              Как зовут демоницу которая пыталась напоить Кришну отравленным
+              молоком?
+            </p>
           </div>
           <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
+            <button className="btn-q">Путаница</button>
+            <button className="btn-q">Распутница</button>
           </div>
           <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
+            <button className="btn-q">Паутина</button>
+            <button className="btn-q">Путана</button>
           </div>
         </Col>
       </Row>
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Кришна</p>
+            <p className="test-q">Как думаешь, Кришна любит тебя?</p>
           </div>
           <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
+            <button className="btn-q">Да</button>
+            <button className="btn-q">Конечно</button>
           </div>
           <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
+            <button className="btn-q">А как же</button>
+            <button className="btn-q">Несомненно</button>
           </div>
         </Col>
       </Row>
