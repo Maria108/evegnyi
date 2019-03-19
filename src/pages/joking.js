@@ -17,25 +17,26 @@ const Joking = () => (
       <Row className="div-about-faq">
         <Col xs={2} md={6}>
           <p className="faq-p">
-            <b>Самый лучший шутник - Жека </b>
+            <b>Самый лучший шутник - Жека со смеху умерека</b>
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaRegLaughSquint />
             </span>{" "}
-            - $100/час{" "}
+            Смешно рассказать то что было - $108/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaRegLaughSquint />
             </span>{" "}
-            - $100/час{" "}
+            Смешно рассказать то чего не было - $200/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaRegLaughSquint />
             </span>{" "}
-            - $100/час{" "}
+            Смешно рассказать то чего не было, а потом пойти и это сделать -
+            цена по договоренности
           </p>
           <Col xs={12} md={12}>
             <p className="rating">

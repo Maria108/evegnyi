@@ -19,7 +19,7 @@ const Gallery = () => {
           <div>
             <button className="btn-q">Иди приготовь мне кофе</button>
             <button className="btn-q">
-              Выходи в центр поля танцуй лизгингу
+              Выходи в центр поля танцуй лезгингу
             </button>
           </div>
           <div>
@@ -51,12 +51,12 @@ const Gallery = () => {
             </p>
           </div>
           <div>
-            <button className="btn-q">из кармана Прахлад Махараджа</button>
-            <button className="btn-q">из под выподверта</button>
+            <button className="btn-q">Из кармана Прахлад Махараджа</button>
+            <button className="btn-q">Из под выподверта</button>
           </div>
           <div>
-            <button className="btn-q">из книги</button>
-            <button className="btn-q">из колонны</button>
+            <button className="btn-q">Из книги</button>
+            <button className="btn-q">Из колонны</button>
           </div>
         </Col>
       </Row>
@@ -78,15 +78,62 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Кришна</p>
+            <p className="test-q">Что общего между Арджуной и Женей?</p>
           </div>
           <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
+            <button className="btn-q">
+              У них обоих имена не начинаются на букву Ы
+            </button>
+            <button className="btn-q">Они одинакового роста</button>
           </div>
           <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
+            <button className="btn-q">Они оба были на Курукшетре</button>
+            <button className="btn-q">Они оба воины</button>
+          </div>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={12} md={12}>
+          <div>
+            <p className="test-q">Голова какого животного у Ганеши</p>
+          </div>
+          <div>
+            <button className="btn-q">Жирафа</button>
+            <button className="btn-q">Комара</button>
+          </div>
+          <div>
+            <button className="btn-q">Попугая</button>
+            <button className="btn-q">Слона</button>
+          </div>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={12} md={12}>
+          <div>
+            <p className="test-q">На чем Кришна держал холм Говардхан</p>
+          </div>
+          <div>
+            <button className="btn-q">На коленях</button>
+            <button className="btn-q">На мезинце левой ноги</button>
+          </div>
+          <div>
+            <button className="btn-q">На ушах</button>
+            <button className="btn-q">На мезинце левой руки</button>
+          </div>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={12} md={12}>
+          <div>
+            <p className="test-q">Выбери того кто НЕ являлся братом Арджуны</p>
+          </div>
+          <div>
+            <button className="btn-q">Бхима</button>
+            <button className="btn-q">Юдхиштхира</button>
+          </div>
+          <div>
+            <button className="btn-q">Сахадев</button>
+            <button className="btn-q">Василий</button>
           </div>
         </Col>
       </Row>
@@ -123,45 +170,13 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">Кришна</p>
+            <p className="test-q">
+              Поздравляем, ваш результат 30%, поэтому вы получаете 30% от своего
+              поздравления
+            </p>
           </div>
           <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
-          </div>
-          <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
-          </div>
-        </Col>
-      </Row>
-      <Row>
-        <Col xs={12} md={12}>
-          <div>
-            <p className="test-q">Кришна</p>
-          </div>
-          <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
-          </div>
-          <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
-          </div>
-        </Col>
-      </Row>
-      <Row>
-        <Col xs={12} md={12}>
-          <div>
-            <p className="test-q">Кришна</p>
-          </div>
-          <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
-          </div>
-          <div>
-            <button className="btn-q">Кришна</button>
-            <button className="btn-q">Кришна</button>
+            <p>Передите по ссылке ...</p>
           </div>
         </Col>
       </Row>

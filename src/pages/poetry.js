@@ -17,25 +17,27 @@ const Poetry = () => (
       <Row className="div-about-faq">
         <Col xs={2} md={6}>
           <p className="faq-p">
-            <b>Самый лучший поэт - Жека ?</b>
+            <b>Самый лучший поэт - Жека Грека</b>
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaBookOpen />
             </span>{" "}
-            - $100/час{" "}
+            Сочинить стих/песню про друга - $108 <br /> (Пакет из трех друзей
+            $158)
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaBookOpen />
             </span>{" "}
-            - $100/час{" "}
+            Сочинить стих/песню про врага - $208 <br /> (Пакет из трех врагов
+            $258)
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaBookOpen />
             </span>{" "}
-            - $100/час{" "}
+            Сочинить стих/песню про вас и чтобы вам понравилось - $300{" "}
           </p>
           <Col xs={12} md={12}>
             <p className="rating">
@@ -46,8 +48,11 @@ const Poetry = () => (
               <IoMdStar />
               <IoMdStar />
             </p>
-            <p className="review">Отзыв</p>
-            <p className="review-author">-кто-то-</p>
+            <p className="review">
+              Я и раньше стихи умела слогать, но Кришна учит меня не врать, так
+              что друзья скажу не тая, у Жени всему научилася я
+            </p>
+            <p className="review-author">-Маша А-</p>
           </Col>
         </Col>
         <Col xs={10} md={6} className="poet" />
