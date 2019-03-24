@@ -17,19 +17,19 @@ const Photo = () => (
       <Row className="div-about-faq">
         <Col xs={2} md={6}>
           <p className="faq-p">
-            <b>Самый лучший фотограф - Жека ?</b>
+            <b>Самый лучший фотограф - Жека руки-фотики</b>
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaCameraRetro />
             </span>{" "}
-            - $100/час{" "}
+            Фотосессия со мной - $108/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaCameraRetro />
             </span>{" "}
-            - $100/час{" "}
+            Фотосессия без меня - $216/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
@@ -46,8 +46,13 @@ const Photo = () => (
               <IoMdStar />
               <IoMdStar />
             </p>
-            <p className="review">Отзыв</p>
-            <p className="review-author">-кто-то-</p>
+            <p className="review">
+              Я фотограф и взяла пару уроков у Жени, он меня научил крутым
+              трюкам - как фотографировать две свадьбы одновременно в разных
+              местах, как фотографировать не снимая крышку с объектива и как
+              фотографировать без фотоаппарата
+            </p>
+            <p className="review-author">-Милена А-</p>
           </Col>
         </Col>
         <Col xs={10} md={6} className="photo" />

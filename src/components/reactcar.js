@@ -19,7 +19,7 @@ const Gallery = () => {
           <div>
             <button className="btn-q">Иди приготовь мне кофе</button>
             <button className="btn-q">
-              Выходи в центр поля танцуй лезгингу
+              Выходи в центр поля танцуй лезгинку
             </button>
           </div>
           <div>
@@ -114,11 +114,11 @@ const Gallery = () => {
           </div>
           <div>
             <button className="btn-q">На коленях</button>
-            <button className="btn-q">На мезинце левой ноги</button>
+            <button className="btn-q">На мизинце левой ноги</button>
           </div>
           <div>
             <button className="btn-q">На ушах</button>
-            <button className="btn-q">На мезинце левой руки</button>
+            <button className="btn-q">На мизинце левой руки</button>
           </div>
         </Col>
       </Row>
@@ -173,13 +173,22 @@ const Gallery = () => {
       <Row>
         <Col xs={12} md={12}>
           <div>
-            <p className="test-q">
-              Поздравляем, ваш результат 30%, поэтому вы получаете 30% от своего
-              поздравления
+            <p className="test-result">
+              Поздравляем, ваш результат 30% из 120%, поэтому вы получаете 30%
+              от своего поздравления
             </p>
           </div>
           <div>
-            <p>Передите по ссылке ...</p>
+            <div className="test-result-s">
+              Передите по ссылке -{" "}
+              <a
+                href="https://www.youtube.com/watch?v=Q6iRmKUGWok&list=RDQ6iRmKUGWok&index=1"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                ссылка
+              </a>
+            </div>
           </div>
         </Col>
       </Row>

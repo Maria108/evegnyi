@@ -23,20 +23,22 @@ const Joking = () => (
             <span className="third-section-about-icon">
               <FaRegLaughSquint />
             </span>{" "}
-            Смешно рассказать то что было - $108/час{" "}
+            Вы хотите лёгкую очаровательную улыбку и приподнятое настроение? -
+            $108/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaRegLaughSquint />
             </span>{" "}
-            Смешно рассказать то чего не было - $200/час{" "}
+            Вы хотите смеяться до слёз и вспомнить давно забытые брюшные мышцы?
+            - $200/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaRegLaughSquint />
             </span>{" "}
-            Смешно рассказать то чего не было, а потом пойти и это сделать -
-            цена по договоренности
+            Вы хотите пойти ва-банк и хохотать так, чтоб вас порвало и вынесло
+            из тела? - $300/час{" "}
           </p>
           <Col xs={12} md={12}>
             <p className="rating">
@@ -47,8 +49,12 @@ const Joking = () => (
               <IoMdStar />
               <IoMdStar />
             </p>
-            <p className="review">Отзыв</p>
-            <p className="review-author">-кто-то-</p>
+            <p className="review">
+              После общения с Женей у меня сразу же прошла зимняя хандра, сошёл
+              заговор уныния, выпрямился позвоночник, на дворе запели птицы и я
+              пошла сажать помидоры прямо в снег.
+            </p>
+            <p className="review-author">-Ульяна-</p>
           </Col>
         </Col>
         <Col xs={10} md={6} className="joke" />

@@ -22,19 +22,19 @@ const Martial = () => (
             <span className="third-section-about-icon">
               <FaBolt />
             </span>{" "}
-            Персональный телохранитель $108/час{" "}
+            Персональный телохранитель - $108/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaBolt />
             </span>{" "}
-            Ускоритель мытья посуды на фестивалях $216/час
+            Ускоритель мытья посуды на фестивалях - $216/час
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaBolt />
             </span>{" "}
-            Тренер по подготовке к Курукшетре $324/час{" "}
+            Тренер по подготовке к Курукшетре - $324/час{" "}
           </p>
           <Col xs={12} md={12}>
             <p className="rating">
@@ -47,7 +47,7 @@ const Martial = () => (
             </p>
             <p className="review">
               Я обращался к Жене за услугами и ни разу не пожалел, теперь могу
-              из лука в муху попасть на расстоянии 1км
+              из лука в муху попасть на расстоянии километра
             </p>
             <p className="review-author">-Шамиль-</p>
           </Col>

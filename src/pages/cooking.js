@@ -23,20 +23,20 @@ const Cooking = () => (
             <span className="third-section-about-icon">
               <FaDrumstickBite />
             </span>{" "}
-            Пекарь на дому $100/час{" "}
+            Пекарь на дому - $100/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaDrumstickBite />
             </span>{" "}
-            Пекарь для общественного мероприятия $150/час <br /> (Пакет из трех
-            мероприятий $120/час)
+            Пекарь для общественного мероприятия - $150/час <br /> (Пакет из
+            трех мероприятий - $120/час)
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaDrumstickBite />
             </span>{" "}
-            Пекарь для Кришны $priceless{" "}
+            Пекарь для Кришны - $priceless{" "}
           </p>
           <Col xs={12} md={12}>
             <p className="rating">

@@ -254,6 +254,18 @@
   font-weight: bold;
 }
 
+.test-result {
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.test-result-s {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
 @media (max-width: 769px) {
   .test-q {
     text-align: center;

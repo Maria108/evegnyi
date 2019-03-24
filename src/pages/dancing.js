@@ -23,19 +23,20 @@ const Dancing = () => (
             <span className="third-section-about-icon">
               <FaBomb />
             </span>{" "}
-            - $100/час{" "}
+            Хоровод с неограниченным количеством людей, снежинок и зайчиков
+            вокруг ёлки - $108/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaBomb />
             </span>{" "}
-            - $100/час{" "}
+            Фирменный танец Супермена - $208/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaBomb />
             </span>{" "}
-            - $100/час{" "}
+            Организация Харинамы при любых обстоятельствах - $300/час{" "}
           </p>
           <Col xs={12} md={12}>
             <p className="rating">
@@ -46,8 +47,11 @@ const Dancing = () => (
               <IoMdStar />
               <IoMdStar />
             </p>
-            <p className="review">Отзыв</p>
-            <p className="review-author">-кто-то-</p>
+            <p className="review">
+              После Жениных уроков, я могу давать мастер классы не только по
+              харинамным танцам, но еще и по брейк дансу в паре с Даней
+            </p>
+            <p className="review-author">-Надя Х-</p>
           </Col>
         </Col>
         <Col xs={10} md={6} className="dance" />
