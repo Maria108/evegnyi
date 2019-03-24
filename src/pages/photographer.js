@@ -23,19 +23,30 @@ const Photo = () => (
             <span className="third-section-about-icon">
               <FaCameraRetro />
             </span>{" "}
-            Фотосессия со мной - $108/час{" "}
+            Фотография с серьезным лицом на паспорт: рекомендуем сначала
+            воспользоваться услугой шуток - $108/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaCameraRetro />
             </span>{" "}
-            Фотосессия без меня - $216/час{" "}
+            Фотография вас в состоянии дзен и самом выгодном свете: услуга
+            возможна только после того, как вы попробовали Женину выпечку -
+            $216/час{" "}
           </p>
           <p className="faq-p">
             <span className="third-section-about-icon">
               <FaCameraRetro />
             </span>{" "}
-            - $100/час{" "}
+            Фотобомба: вы увидите неожиданно для себя Женю на всех ваших фото -
+            $300/час{" "}
+          </p>
+          <p className="faq-p">
+            <span className="third-section-about-icon">
+              <FaCameraRetro />
+            </span>{" "}
+            Фотография с коровками: плата не взимается, это Жене самому в
+            большую радость
           </p>
           <Col xs={12} md={12}>
             <p className="rating">
