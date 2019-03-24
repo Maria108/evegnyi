@@ -182,7 +182,7 @@ const Gallery = () => {
             <div className="test-result-s">
               Передите по ссылке -{" "}
               <a
-                href="https://www.youtube.com/watch?v=Q6iRmKUGWok&list=RDQ6iRmKUGWok&index=1"
+                href="https://youtu.be/lU4n-1sOHF8"
                 target="_blank"
                 rel="noopener noreferrer"
               >
